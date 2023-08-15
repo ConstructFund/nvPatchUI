@@ -14,8 +14,23 @@
     "allowlist": {
       "all": false,
       "shell": {
+        "all": true,
+        "execute": true,
+        "scope": [
+          {
+            "name": "powershell",
+            "cmd": "powershell",
+            "args": true
+          }
+        ]
+      },
+      "dialog": {
         "all": false,
-        "open": true
+        "ask": false,
+        "confirm": false,
+        "message": true,
+        "open": true,
+        "save": false
       }
     },
     "bundle": {
@@ -36,10 +51,11 @@
     "windows": [
       {
         "fullscreen": false,
-        "resizable": true,
+        "resizable": false,
+        "center": true,
         "title": "nvpatch-ui",
-        "width": 800,
-        "height": 600
+        "width": 350,
+        "height": 400
       }
     ]
   }
