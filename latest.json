@@ -1,0 +1,11 @@
+{
+  "version": "0.0.5",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2023-08-15T17:55:22.901Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTKzl2VjBZTnhNZ2hIQ2MwL3ZicGt3ODdIdlJHOUwwdHpNSk9ZaEZTMW9pWkF3SzN1eEJZUEdoVWJnSzNIdzFKTWM1ZFNpaWNqU2VENzJTbzFrN09qWmxwR1ZZb2NNa2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyMTIyMTE4CWZpbGU6bnZwYXRjaC11aV8wLjAuNV94NjQtc2V0dXAubnNpcy56aXAKeHJiUFlXT2ovaXpEajJtNmNoc2JubHpTQXdEdUFlRW9aTGhGS3ZNanAzclVFNFNSUFpQQTJ5cUJvT1JoVktLQWorTjJyYW1SOG9nRFkyTThBb2xnQlE9PQo=",
+      "url": "https://github.com/ConstructFund/nvPatchUI/releases/download/v0.0.5/nvpatch-ui_0.0.5_x64-setup.nsis.zip"
+    }
+  }
+}
