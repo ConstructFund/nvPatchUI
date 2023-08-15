@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "nvpatch-ui",
-    "version": "0.0.4"
+    "version": "0.0.5"
   },
   "tauri": {
     "allowlist": {
@@ -64,7 +64,7 @@
         "https://raw.githubusercontent.com/ConstructFund/nvPatchUI/update/latest.json"
       ],
       "dialog": true,
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEQ2RUNBQzlCNjZBNEIwNUUKUldSZXNLUm1tNnpzMXBzSS9ZK0w0ZVgzcm1iSy9sQlZLbGw4VTRmSHNIUHM3VE1aRUE5N21XOEwK",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDgyNENEQzYwNzRGNUY2QkUKUldTKzl2VjBZTnhNZ2tRR0QrTDk0NTIraTlaVTNxbEpIem9RM3p6dGxoQ1FjRzNsN2Q2VzF1S2QK",
       "windows": {
         "installMode": "passive"
       }
