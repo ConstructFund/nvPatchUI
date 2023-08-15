@@ -44,8 +44,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tagName: construct-crawler-v__VERSION__ # the action automatically replaces __VERSION__ with the app version
-          releaseName: "Construct Crawler v__VERSION__"
+          tagName: v__VERSION__ # the action automatically replaces __VERSION__ with the app version
+          releaseName: "v__VERSION__"
           releaseBody: "See the assets to download this version and install."
           releaseDraft: false
           prerelease: false
